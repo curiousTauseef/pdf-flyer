@@ -1,7 +1,9 @@
 # pdf-flyer
-A flyer builder based on jsPDF
+A flyer builder based on [jsPDF](https://github.com/MrRio/jsPDF).
 
-Demo at <https://massimo-cassandro.github.io/pdf-flyer/>
+Demo at <https://massimo-cassandro.github.io/pdf-flyer/>.
+
+Full description at [my Sitepoint article](https://www.sitepoint.com/generating-pdfs-from-web-pages-on-the-fly-with-jspdf/)
 
 ## Changelog
 * v.1.1
